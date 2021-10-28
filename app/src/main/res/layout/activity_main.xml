@@ -25,7 +25,7 @@
         app:layout_constraintVertical_bias="0.150" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/button_date_selector"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="@color/olive_light"
@@ -50,7 +50,7 @@
         android:textColor="@color/beige_dark"
         android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/button"
+        app:layout_constraintTop_toBottomOf="@+id/button_date_selector"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
