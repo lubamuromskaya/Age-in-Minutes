@@ -14,7 +14,7 @@
         android:layout_height="wrap_content"
         android:fontFamily="serif-monospace"
         android:padding="7dp"
-        android:text="@string/header_1"
+        android:text="@string/header"
         android:textColor="@color/beige_dark"
         android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
