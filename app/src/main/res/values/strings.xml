@@ -4,4 +4,6 @@
     <string name="button">select birth date</string>
     <string name="date_text">selected date</string>
     <string name="result">in minutes</string>
+    <string name="date_field">your date</string>
+    <string name="result_field">minutes</string>
 </resources>
